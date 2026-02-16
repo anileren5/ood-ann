@@ -1,2 +1,2 @@
 # ood-ann
-OOD-ANN
+OOD-ANN (ETH Zurich - Semester Project)
